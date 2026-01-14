@@ -1,5 +1,3 @@
-# TBT Project
-
 ## Folder Structure
 
 ```
